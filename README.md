@@ -2,4 +2,4 @@
 A real-time sudoku solver
 
 # TODO
-[] just solve a given sudoku
+-[] just solve a given sudoku

@@ -2,4 +2,5 @@
 A real-time sudoku solver
 
 ## TODO
-- [ ] just solve a given sudoku
+- [x] just solve a given sudoku
+- [ ] collect some data
